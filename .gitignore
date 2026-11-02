@@ -59,6 +59,7 @@ Thumbs.db
 
 # Personal study plan & private notes (local only, never pushed to GitHub)
 PLAN.md
+CHECKPOINT.md
 notes/
 *.note.md
 
