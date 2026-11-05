@@ -20,5 +20,5 @@ public interface TaskRepository extends JpaRepository<Task, Long> {
     //-> Long mới chứa dc null, còn long thì ko.
     List<Task> findByStatus(Status status);
     //= WHERE status = ?
-    //trả về nhiều công việc mang status đó 
+    //trả về nhiều công việc mang status đó
 }
